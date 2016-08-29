@@ -19,7 +19,7 @@ items:
       contextDir: kitchensink
       git:
         ref: master
-        uri: https://github.com/mmatouk/jboss-eap-kitchensink
+        uri: https://github.com/mmatouk/jboss-eap-kitchensink.git
       type: Git
     strategy:
       sourceStrategy:
